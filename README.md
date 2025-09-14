@@ -5,7 +5,7 @@ To design and develop a **Pizza Sales Dashboard in Power BI** using sales data (
 
 The dashboard helps business stakeholders monitor **Sales KPIs, Daily & Monthly Order Trends, Category/Size Contribution, and Product-Level Performance**, enabling **Data-Driven Decisions** for marketing, inventory, and operations.  
 
----
+--- 
 
 📊 **Live Dashboard**  
 I created **two interactive dashboards** in Power BI:  
