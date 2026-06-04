@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis Dashboard
 
-📌 **Project Objective**  
+📌 **Project Objective**   
 To design and develop a **Pizza Sales Dashboard in Power BI** using sales data (Jan 2015 – Dec 2015), supported by SQL queries, to deliver insights into **total revenue, orders, pizzas sold, category/size performance, and best/worst sellers**.  
 
 The dashboard helps business stakeholders monitor **Sales KPIs, Daily & Monthly Order Trends, Category/Size Contribution, and Product-Level Performance**, enabling **Data-Driven Decisions** for marketing, inventory, and operations.  
