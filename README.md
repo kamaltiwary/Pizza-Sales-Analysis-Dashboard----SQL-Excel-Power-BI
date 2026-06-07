@@ -147,5 +147,5 @@ Based on customer requirements, the following questions were answered via SQL + 
 **Data Analyst**  
 
 📧 Email: **kamalnayantiwary73@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
+🔗 [LinkedIn](http://www.linkedin.com/in/kamalnayantiwary)  
 
